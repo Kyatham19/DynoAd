@@ -1,0 +1,15 @@
+streamlit>=1.32.0
+pillow>=10.2.0
+numpy>=1.26.0
+imageio>=2.34.0
+imageio-ffmpeg>=0.4.9
+moviepy>=2.0.0
+
+ultralytics>=8.2.0
+rembg>=2.0.50
+
+edge-tts>=6.1.9
+fal-client>=0.4.0
+google-genai>=0.3.0
+
+python-dotenv>=1.0.1
