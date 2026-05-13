@@ -26,3 +26,10 @@ python demo_run.py
 - Transparent PNG product images give the best result.
 - JPGs also work; the script tries a lightweight background cleanup.
 - Optional music is merged with ffmpeg if it is installed on your machine.
+
+## Team Members
+
+- Kruthika Kyatham
+- Manisree Gidugu(Gsp200)
+- Akshitha
+- Anshu
